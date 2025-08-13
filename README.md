@@ -17,9 +17,10 @@ I enjoy building full-stack applications, exploring machine learning models, and
 ### 🔭 I’m currently working on  
 Enhancing my **Full-Stack Development skills** through advanced projects in **Java, Spring Boot, React.js** and **Python, Django Web framework**.
 
+---
+
 💻 “Explore my GitHub repositories to discover projects in 🌐 Full-Stack Development, 🤖 Machine Learning, and 🛠️ innovative software solutions.”
 
----
 ---
 
 ## 🛠 Tech Stack
