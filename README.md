@@ -14,8 +14,7 @@ I enjoy building full-stack applications, exploring machine learning models, and
 
 ---
 
-### 🔭 I’m currently working on  
-Enhancing my **Full-Stack Development skills** through advanced projects in **Java, Spring Boot, React.js** and **Python, Django Web framework**.
+### 🔭 I’m currently working as Junior Software Developer @ Altimetrik
 
 ---
 
@@ -34,6 +33,11 @@ Enhancing my **Full-Stack Development skills** through advanced projects in **Ja
 ---
 
 ## 📂 Featured Projects
+
+### 🎓 [Learn Sphere – E-Learning Platform] | Java, Spring Boot, MySQL, HTML, CSS, JS
+•	Developed a Java application using Springboot for secure multi-role e-learning platform connecting trainers and students, supporting content management, course purchasing via Razor pay, and progress tracking.
+•	Implemented Spring Security with role-based access control, real-time result publishing, exam scheduling, and quiz performance analytics.
+
 
 ### 🎓 [UniProject – Digital Project Hub](https://github.com/YashaswiniMO/UniProject)
 - Django-based centralized repository for university project collaboration.
