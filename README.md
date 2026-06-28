@@ -24,11 +24,11 @@ I enjoy building full-stack applications, exploring machine learning models, and
 
 ## 🛠 Tech Stack
 
-💻 **Languages:** Java, Python, C  
+💻 **Languages:** Java, Python, JavaScript, SQL  
 🌐 **Web:** HTML, CSS, JavaScript, React.js  
-⚙️ **Frameworks:** Spring Boot, Django  
-🗄️ **Database:** MySQL  
-🧠 **Specialties:** OOPs, DSA, DBMS, Machine Learning & AI
+⚙️ **Frameworks:** Django, Spring Boot, React, JUnit5, Mockito (Unit Test)  
+🗄️ **Software Development Tools:** Git, Postman, Jenkins, MySQL, Postgres SQL  
+🧠 **Others:** OOPs, DSA, DBMS, Machine Learning & AI
 
 ---
 
